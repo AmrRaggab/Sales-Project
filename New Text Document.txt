@@ -1,6 +1,7 @@
 @@ AdventureWorks
 - Data Source: 
 Sales.xlsx
+- It is a store that contains wheels, sports equipment and related supplies.
 
 Modeling:
  
